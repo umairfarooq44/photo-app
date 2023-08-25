@@ -6,7 +6,6 @@
   "scripts": {
     "build": "tsc",
     "dev": "ts-node-dev --respawn src/index.ts",
-    "prepare": "husky install",
     "format": "prettier --write .",
     "start": "node --insecure-http-parser built/index.js",
     "type-check": "tsc --project tsconfig.json --pretty --noEmit",
