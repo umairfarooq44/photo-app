@@ -54,13 +54,19 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:umairfarooq44/photo-app-management.git
+   git clone git@github.com:umairfarooq44/photo-app.git
    ```
-2. Install NPM packages
+2. Go to service folder
+
+```sh
+  cd photo-app-service
+```
+
+3. Install NPM packages
    ```sh
    npm install
    ```
-3. Create a `.env` file. You can also copy `.env.example` file content to `.env` file and provide the following environment variables:
+4. Create a `.env` file. You can also copy `.env.example` file content to `.env` file and provide the following environment variables:
 
    ```sh
     NODE_ENV=development
@@ -68,7 +74,7 @@ This is an example of how to list things you need to use the software and how to
     MONGODB_CONNECTION_STRING=mongodb+srv://umairfarooq:mGRypIdUwgHC6sro@photo-app.39pjrtd.mongodb.net/?retryWrites=true&w=majority
    ```
 
-4. Run the Project
+5. Run the Project
    ```sh
     npm run dev
    ```
