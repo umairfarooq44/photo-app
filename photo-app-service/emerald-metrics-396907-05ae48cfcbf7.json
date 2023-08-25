@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-metrics-396907",
+  "private_key_id": "05ae48cfcbf70bb707a124c6bdcab0334d755553",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWQq0/QGr4Wphq\n13JRUU+P1l27QcCtsA6HdzPQ944fxYr7UHY1zo4Oaawc86nKI4Uhoeg+yOomj6k6\nTMiUPEMoblbqTdvP7fBq+910EA6kVQkwEz0rRhnrNw3+4rBpPWuQ2H1wY+AU7j6Y\n3pI6A2yCyWukFjt9+osn5CXOPCl+dbAiYK/JntpJwEKHwvcfsYWKkHJx1L+vaV90\nyYF7Pu+qtHgf69bNyLayhRUlGHPSYqoGSjzxG5qaq+aqqGwhLRc9BdUE8SbiwBwF\njJmshCJWHMPFBMrBsOj/o81pjf/BViGPLTBe3Yt9FTyt9k/2S6jkGI5uFMbtzVm9\nUtYAj4FnAgMBAAECggEAGuCAVQfio0bSCcz+5R57CYMNfPjxj5gfKnUUhekX5fpk\nxcPBIFzJyxsMYRFbwiSUhbSGqqGPZcjtpIePPbEVh5PXyUp9AWdKmlD/5ZhCDfEw\n1twC91Oy2qOsWMXc9UakIKZXjeqpaFa+eXSqCSb2zK0xmILFcbclD5r59xXq6pbj\n8bPYq4Et6TY8bG7zUx8s9cNsRaH/FXq78Dy0qS/GPYn+rVHWhC2ZEIx95RhKzV2g\nsLrUZ6aQmERa7bNh0aEliN+qTC1K6mfc4tSGyOsytKzfpq03ZG6vJ9cSgpkZxWX0\n0ZqyuYVardVTyZaMmZR+BJPKbxzc05mifTktSkAjwQKBgQD0xU5vdoEmMsa68bTQ\nO+Gz6705TSyrtG3rzsl+WPQls/lRGUwubDJJKMPWN4ahLQIs95oKhtwXpACiUhRh\nPgvM3u8Nrav6Hc1SvPUzPrLt8hGwOEOIBEOd71yRPVBjeAWgt79FthF7Z30lIW5g\ngfiGJ6LrnBok1YSqx5Sys1GRhwKBgQDgFwtjkF9lO09sqRnmLeCxrEP6rNKHxjy1\nKtp1+xLZPmBXmBe05h1pRHOZvpLqeoPkhg/apfGnjtnAp3oOR/YwHbeETUmAG9XR\nM97gu2sEAOhIeGTGAUcw4823fx2eU3l5+Ss0fCPm4W9PincdMdamxEAbPZ614qWa\nCdaZByIJIQKBgFFSlIK37qTQTfKih55/prduZUn6eBL8OWEVLSDLUSKNrxHgw8zQ\nqcxgvOAZRqOaHpTuFsHUmJ9KH+POPXMpeCYzE12KDA9ng2Yv3Y+PD0e7G2Fe8CDq\nucRpWGnw4xqJL+V75xK0MQ69DXkeqFtsEzQPSzPYg18liZRsBt1wcnNVAoGAFke0\nRi3wjiwbdX5KqOwezwuFpsLQG9fF6W1dUyWndhoRkiP5F29ZtUGtDLg5+z47Jtl9\ncgvVvwcg91qvdAQLojUSLgFRMX+S/r3dhxKbTUaZ0brGqjkuTtoXdgsZcshx54Ky\nnQFKwIXhf1MRDMILyYDxrsOtp//k3y/jOkvPQoECgYEAl9++VPWxWxp695JlpPHB\nF4asoo+60Qt77XOO1NHMgLJlZiqzjeU6RLuHavozp/3TlltgwaDdI3FZ6jgSYblP\naAyWTq7HFbego695XkHHimSVOo+YC8aFxa4fi8HMhK8fmgn/9yOFefyACTrfO3mk\nAWvBSH0UfQwfQWQOaU4UGC4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "photo-app@emerald-metrics-396907.iam.gserviceaccount.com",
+  "client_id": "113271323231252800966",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/photo-app%40emerald-metrics-396907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
